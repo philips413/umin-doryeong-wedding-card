@@ -14,19 +14,19 @@ export default defineComponent({
   data() {
     return {
       images: [
-        {id: 1, imagePosition: "img1url"},
-        {id: 2, imagePosition: 'img2url'},
-        {id: 3, imagePosition: 'img3url'},
+        {id: 13, imagePosition: 'img13url'},
         {id: 4, imagePosition: 'img4url'},
+        {id: 9, imagePosition: 'img9url'},
+        {id: 10, imagePosition: 'img10url'},
+        {id: 2, imagePosition: 'img2url'},
+        {id: 1, imagePosition: "img1url"},
+        {id: 3, imagePosition: 'img3url'},
         {id: 5, imagePosition: 'img5url'},
         {id: 6, imagePosition: 'img6url'},
         {id: 7, imagePosition: 'img7url'},
         {id: 8, imagePosition: 'img8url'},
-        {id: 9, imagePosition: 'img9url'},
-        {id: 10, imagePosition: 'img10url'},
         {id: 11, imagePosition: 'img11url'},
-        {id: 12, imagePosition: 'img12url'},
-        {id: 13, imagePosition: 'img13url'}
+        {id: 12, imagePosition: 'img12url'}
       ]
     }
   }
@@ -104,7 +104,7 @@ export default defineComponent({
     width: 480px;
     height: 480px;
     background-size: 100%;
-    background-image: url("@/assets/img/gallary/2FD1D869-7F67-4D17-9E19-C48648624FD0.jpg");
+    background-image: url("@/assets/img/gallary/AAF0CB11-61E3-476A-BEE8-644F84E6A853.jpg");
     background-repeat: no-repeat;
   }
   .img3url {
