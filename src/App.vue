@@ -1,5 +1,5 @@
 <template>
-  <div id="kyong">
+  <div id="wrapper-section">
     <FlowerRain />
     <MainSection />
     <InvitedSection />
@@ -169,7 +169,7 @@ button {
 * {
   box-sizing: border-box;
 }
-#kyong {
+#wrapper-section {
   font-family: "Cafe24Oneprettynight", sans-serif;
   max-width: 460px;
   margin: 0 auto;

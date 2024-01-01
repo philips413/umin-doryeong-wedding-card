@@ -14,7 +14,7 @@
     background-size: 100%;
     max-width: 480px;
     max-height: 750px;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-color: aliceblue;
   }

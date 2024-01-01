@@ -12,6 +12,6 @@
     background-size: 100%;
     max-width: 480px;
     min-height: 480px;
-    width: 100vw;
+    width: 100%;
   }
 </style>

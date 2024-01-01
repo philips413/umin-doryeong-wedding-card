@@ -11,7 +11,8 @@
 #location-section {
   background-size: 100%;
   max-width: 480px;
-  min-height: 480px;
-  width: 100vw;
+  max-height: 750px;
+  width: 100%;
+  height: 100vh;
 }
 </style>
