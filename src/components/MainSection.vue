@@ -1,6 +1,6 @@
 <template>
   <div id="main-section">
-    <img src="../assets/img/main_section.png" width="100%">
+    <img src="../assets/img/main_section.png" width="100%" />
   </div>
 </template>
 <script setup>
