@@ -8,8 +8,8 @@ import fallingLoveLeaf1 from "@/assets/img/love/love-leaf-1.png";
 import fallingLoveLeaf2 from "@/assets/img/love/love-leaf-2.png";
 import fallingLoveLeaf3 from "@/assets/img/love/love-leaf-3.png";
 import fallingLoveLeaf4 from "@/assets/img/love/love-leaf-4.png";
-import fallingLoveLeaf5 from "@/assets/img/love/love-leaf-5.jpeg";
-import fallingLoveLeaf6 from "@/assets/img/love/love-leaf-6.jpeg";
+import fallingLoveLeaf5 from "@/assets/img/love/love-leaf-5.png";
+import fallingLoveLeaf6 from "@/assets/img/love/love-leaf-6.png";
 
 export default {
   name: "FlowerLeaf",

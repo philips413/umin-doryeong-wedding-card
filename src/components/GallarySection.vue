@@ -25,10 +25,8 @@ export default {
 </script>
 
 <template>
-  <div style="text-align: center; font-size: 35px; margin-top: 10px; margin-bottom: 10px;">
-    Gallary
-  </div>
-  <div id="gallary-section">
+  <img src="../assets/img/galllery_title.jpeg" width="100%">
+  <div id="gallery-section">
     <swiper
         :slidesPerView="1"
         :spaceBetween="30"
@@ -38,9 +36,6 @@ export default {
         :modules="modules"
         class="mySwiper"
     >
-<!--      <swiper-slide v-for="(img, idx) of 13" :key="`swiper-sub-${idx}`">-->
-<!--        <img src="../assets/img/gallary/IMG_0064.jpg" width="100%" >-->
-<!--      </swiper-slide>-->
       <swiper-slide>
         <img src="../assets/img/gallary/IMG_0064.jpg" width="100%" >
       </swiper-slide>
@@ -107,7 +102,7 @@ export default {
 </template>
 
 <style scoped>
-  #gallary-section{
+  #gallery-section{
     background-size: 100%;
     max-width: 480px;
     max-height: 750px;
