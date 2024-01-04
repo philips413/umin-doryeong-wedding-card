@@ -4,24 +4,24 @@
 
 <script>
 
-import fallingLeaf1 from "@/assets/img/leaf/floral-leaf-1.png";
-import fallingLeaf2 from "@/assets/img/leaf/floral-leaf-2.png";
-import fallingLeaf3 from "@/assets/img/leaf/floral-leaf-3.png";
-import fallingLeaf4 from "@/assets/img/leaf/floral-leaf-4.png";
-import fallingLeaf5 from "@/assets/img/leaf/floral-leaf-5.png";
-import fallingLeaf6 from "@/assets/img/leaf/floral-leaf-6.png";
+import fallingLoveLeaf1 from "@/assets/img/love/love-leaf-1.png";
+import fallingLoveLeaf2 from "@/assets/img/love/love-leaf-2.png";
+import fallingLoveLeaf3 from "@/assets/img/love/love-leaf-3.png";
+import fallingLoveLeaf4 from "@/assets/img/love/love-leaf-4.png";
+import fallingLoveLeaf5 from "@/assets/img/love/love-leaf-5.jpeg";
+import fallingLoveLeaf6 from "@/assets/img/love/love-leaf-6.jpeg";
 
 export default {
   name: "FlowerLeaf",
   data (){
     return {
       images: [
-        {url: fallingLeaf1},
-        {url: fallingLeaf2},
-        {url: fallingLeaf3},
-        {url: fallingLeaf4},
-        {url: fallingLeaf5},
-        {url: fallingLeaf6}
+        {url: fallingLoveLeaf1},
+        {url: fallingLoveLeaf2},
+        {url: fallingLoveLeaf3},
+        {url: fallingLoveLeaf4},
+        {url: fallingLoveLeaf5},
+        {url: fallingLoveLeaf6}
       ]
     }
   },
