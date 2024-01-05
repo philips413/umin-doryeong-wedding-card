@@ -3,7 +3,7 @@
 </script>
 <template>
   <div id="invited-section">
-    <img src="../assets/img/invitedsection.jpeg" width="100%" />
+    <img src="../assets/img/invitedSection.png" width="100%" />
   </div>
 </template>
 

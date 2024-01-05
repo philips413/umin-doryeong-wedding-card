@@ -1,7 +1,7 @@
 <template>
   <div id="location-section">
-    <img src="../assets/img/0047CF9A-B9E2-468A-ADB5-A0345C428A81_1_105_c.jpeg" width="100%">
-    <div class="map-icon-wrapper" style="display: flex; justify-content: space-between;text-align: center; margin: 22px 10% 22px 10%;">
+    <img src="../assets/img/locationSection.png" width="100%">
+    <div class="map-icon-wrapper" style="display: flex; justify-content: space-between;text-align: center; margin: 22px 10% 22px 10%;padding-bottom: 100px">
       <a class="link_tag" href="kakaomap://search?q=웨딩시그니처" style="vertical-align: middle">
         <img src="@/assets/img/kakaomap.png" width="40px" height="40px" />
         <p>카카오맵</p>
