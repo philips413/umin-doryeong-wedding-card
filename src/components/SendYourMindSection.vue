@@ -209,6 +209,8 @@ const closeModal = (name) => {
     background-color: #e5e4e4;
   }
   .dialog-footer button {
+    font-weight: bold;
+    font-size: 20px;
     width: 100%;
     border-radius: 10px;
     padding-top: 10px;
