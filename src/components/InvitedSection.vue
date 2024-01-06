@@ -11,7 +11,6 @@
   #invited-section{
     background-size: 100%;
     max-width: 480px;
-    min-height: 480px;
     width: 100%;
   }
 </style>

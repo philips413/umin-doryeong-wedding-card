@@ -5,6 +5,7 @@
     <InvitedSection />
     <GallarySection />
     <LocationSection />
+    <SendYourMindSection />
   </div>
 </template>
 
@@ -14,10 +15,12 @@ import MainSection from "@/components/MainSection.vue";
 import InvitedSection from "@/components/InvitedSection.vue";
 import GallarySection from "@/components/GallarySection.vue";
 import LocationSection from "@/components/LocationSection.vue";
+import SendYourMindSection from "@/components/SendYourMindSection.vue";
 
 export default {
   name: 'App',
   components: {
+    SendYourMindSection,
     LocationSection,
     GallarySection,
     InvitedSection,
@@ -165,6 +168,10 @@ button {
   outline: none;
   border: none;
   font: inherit;
+}
+section {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 * {
   box-sizing: border-box;

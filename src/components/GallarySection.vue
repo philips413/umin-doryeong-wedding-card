@@ -105,7 +105,6 @@ export default {
   #gallery-section{
     background-size: 100%;
     max-width: 480px;
-    max-height: 750px;
     width: 100%;
   }
 </style>
