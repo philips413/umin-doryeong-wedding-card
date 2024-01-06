@@ -175,7 +175,6 @@ button {
   margin: 0 auto;
   font-size: 15px;
   color: #202121;
-  background-color: #fffdf9;
 }
 </style>
 
