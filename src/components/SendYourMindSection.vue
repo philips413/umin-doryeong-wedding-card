@@ -74,7 +74,7 @@ const closeModal = (name) => {
           <p class="name">신랑 : 김도령</p>
           <p class="number">국민은행 77130201501464</p>
           <p>
-            <button class="copy-button" id="men_person" @click="copyButton('men_person', '77130201501464')">계좌번호 복사하기</button>
+            <button class="copy-button" id="men_person" @click="copyButton('men_person', '국민은행 77130201501464')">계좌번호 복사하기</button>
           </p>
         </div>
         <div class="divide"></div>
@@ -82,7 +82,7 @@ const closeModal = (name) => {
           <p class="name">신랑 아버지: 김종수</p>
           <p class="number">우체국 50126202062303</p>
           <p>
-            <button class="copy-button" id="mem_father_person" @click="copyButton('mem_father_person', '50126202062303')">계좌번호 복사하기</button>
+            <button class="copy-button" id="mem_father_person" @click="copyButton('mem_father_person', '우체국 50126202062303')">계좌번호 복사하기</button>
           </p>
         </div>
         <div class="divide"></div>
@@ -90,7 +90,7 @@ const closeModal = (name) => {
           <p class="name">신랑 어머니: 강정희</p>
           <p class="number">농협 65303752086505</p>
           <p>
-            <button class="copy-button" id="mem_mother_person" @click="copyButton('mem_mother_person', '65303752086505')">계좌번호 복사하기</button>
+            <button class="copy-button" id="mem_mother_person" @click="copyButton('mem_mother_person', '농협 65303752086505')">계좌번호 복사하기</button>
           </p>
         </div>
       </div>
@@ -110,23 +110,23 @@ const closeModal = (name) => {
           <p class="name">신부 : 강유민</p>
           <p class="number">국민은행 77130201501464</p>
           <p>
-            <button class="copy-button" id="women_person" @click="copyButton('women_person', '77130201501464')">계좌번호 복사하기</button>
+            <button class="copy-button" id="women_person" @click="copyButton('women_person', '국민은행 77130201501464')">계좌번호 복사하기</button>
           </p>
         </div>
         <div class="divide"></div>
         <div class="dialog-body-unit">
           <p class="name">신부 아버지: 강희구</p>
-          <p class="number">우체국 3511278276423</p>
+          <p class="number">농협 3511278276423</p>
           <p>
-            <button class="copy-button" id="women_father_person" @click="copyButton('women_father_person', '3511278276423')">계좌번호 복사하기</button>
+            <button class="copy-button" id="women_father_person" @click="copyButton('women_father_person', '농협 3511278276423')">계좌번호 복사하기</button>
           </p>
         </div>
         <div class="divide"></div>
         <div class="dialog-body-unit">
-          <p class="name">신부 어머니: 신지윤</p>ㄴ
+          <p class="name">신부 어머니: 신지윤</p>
           <p class="number">신협 132094642299</p>
           <p>
-            <button class="copy-button" id="women_mother_person" @click="copyButton('women_mother_person', '132094642299')">계좌번호 복사하기</button>
+            <button class="copy-button" id="women_mother_person" @click="copyButton('women_mother_person', '신협 132094642299')">계좌번호 복사하기</button>
           </p>
         </div>
       </div>
@@ -139,7 +139,6 @@ const closeModal = (name) => {
     </dialog>
   </section>
 </template>
-
 <style scoped>
   #sendyourmind-section {
     padding-top: 50px;

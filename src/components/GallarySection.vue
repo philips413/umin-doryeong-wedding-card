@@ -75,10 +75,19 @@ export default {
         <img src="../assets/img/_gallery/outer_008.jpeg" width="100%" >
       </swiper-slide>
       <swiper-slide>
+        <img src="../assets/img/_gallery/inside_000.jpeg" width="100%" >
+      </swiper-slide>
+      <swiper-slide>
         <img src="../assets/img/_gallery/inside_001.jpeg" width="100%" >
       </swiper-slide>
       <swiper-slide>
         <img src="../assets/img/_gallery/inside_002.jpeg" width="100%" >
+      </swiper-slide>
+      <swiper-slide>
+        <img src="../assets/img/_gallery/inside_002_001.jpeg" width="100%" >
+      </swiper-slide>
+      <swiper-slide>
+        <img src="../assets/img/_gallery/inside_002_002.jpeg" width="100%" >
       </swiper-slide>
       <swiper-slide>
         <img src="../assets/img/_gallery/inside_003.jpeg" width="100%" >
