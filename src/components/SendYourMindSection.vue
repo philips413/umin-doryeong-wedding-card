@@ -123,10 +123,10 @@ const closeModal = (name) => {
         </div>
         <div class="divide"></div>
         <div class="dialog-body-unit">
-          <p class="name">신부 어머니: 신지윤</p>
-          <p class="number">농협 3511278276423</p>
+          <p class="name">신부 어머니: 신지윤</p>ㄴ
+          <p class="number">신협 132094642299</p>
           <p>
-            <button class="copy-button" id="women_mother_person" @click="copyButton('women_mother_person', '3511278276423')">계좌번호 복사하기</button>
+            <button class="copy-button" id="women_mother_person" @click="copyButton('women_mother_person', '132094642299')">계좌번호 복사하기</button>
           </p>
         </div>
       </div>
