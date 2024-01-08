@@ -116,7 +116,7 @@ const closeModal = (name) => {
         <div class="divide"></div>
         <div class="dialog-body-unit">
           <p class="name">신부 아버지: 강희구</p>
-          <p class="number">농협 3511278276423</p>
+          <p class="number">농협 3510943610153</p>
           <p>
             <button class="copy-button" id="women_father_person" @click="copyButton('women_father_person', '농협 3511278276423')">계좌번호 복사하기</button>
           </p>
